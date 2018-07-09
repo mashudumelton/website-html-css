@@ -1,0 +1,94 @@
+.nav {
+    height: 70px;
+    background-color:grey;
+    text-emphasis: none;
+    text-align: center;
+}
+.nav ul li{
+    float: left;
+    display: block;
+    margin-left: 20px;
+    font-size: 40px;
+    text-decoration-color: white ;
+  
+
+}
+    li a{
+        
+        color: white;
+}
+body {
+    background-color: lightblue;
+}
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+    }
+
+h1,h2,p{
+    text-align: center;
+}
+table{
+    border: 1px solid;
+    text-align: center;
+    margin-block-end: auto;
+    width: 50%;
+    justify-content: center;
+    background-color: aqua;
+}
+th{
+    font-size: 20px;
+}
+th,td{
+    border:1px solid;
+    text-align: center;
+}
+
+footer{
+    border: 1px groove #faaaaaa;
+    background: grey;
+    color: white;
+    width:100%;
+    position:fixed;
+    text-align: center;
+    line-height: 50px;
+    padding : 0;
+    vertical-align: middle;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+    
+}
+#center{
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+#name,#email{
+    width: 20%;
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+#message{
+    margin-bottom: 10px;
+    width: 20%;
+    height: 40px;
+    background-color: aqua;
+    text-align: center;
+}
+
+button{
+    width: 20%;
+    background-color:aqua;
+    color:blue;
+  
+    text-align: center;
+
+}
